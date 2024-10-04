@@ -1,4 +1,6 @@
 stock_arroz = stock_feijao = stock_carne = stock_batata = stock_melancia = stock_abacate = stock_banana = stock_leite = stock_miojo = stock_pao = 25
+print = "Hello World"
+
 conta = 0
 produto = ""
 
